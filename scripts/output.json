@@ -1,5 +1,6 @@
 {
     "G216": {
+        "name": "G216",
         "sunday": [
             {
                 "timeStart": {
@@ -122,7 +123,7 @@
                     "hour": 12,
                     "minute": 50
                 },
-                "courseName": "Unknown"
+                "courseName": "Operation Management"
             },
             {
                 "courseName": "Free",
@@ -157,7 +158,7 @@
                     "hour": 9,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Safety Engineering"
             },
             {
                 "courseName": "Free",
@@ -396,7 +397,8 @@
             }
         ]
     },
-    "E303Studio": {
+    "E303 Studio": {
+        "name": "E303 Studio",
         "sunday": [
             {
                 "timeStart": {
@@ -540,6 +542,7 @@
         "thursday": []
     },
     "F209": {
+        "name": "F209",
         "sunday": [
             {
                 "timeStart": {
@@ -849,6 +852,7 @@
         ]
     },
     "G118": {
+        "name": "G118",
         "sunday": [
             {
                 "timeStart": {
@@ -859,7 +863,7 @@
                     "hour": 11,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Programming Fundamentals I"
             },
             {
                 "courseName": "Free",
@@ -995,7 +999,7 @@
                     "hour": 15,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Programming Fundamentals I"
             }
         ],
         "wednesday": [
@@ -1070,6 +1074,7 @@
         ]
     },
     "G120": {
+        "name": "G120",
         "sunday": [
             {
                 "timeStart": {
@@ -1102,7 +1107,7 @@
                     "hour": 15,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Software Verification And Validation"
             },
             {
                 "courseName": "Free",
@@ -1124,7 +1129,7 @@
                     "hour": 16,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Software Quality Assurance"
             }
         ],
         "monday": [
@@ -1422,7 +1427,16 @@
             }
         ]
     },
-    "E302Studio": {
+    "Is Agreement": {
+        "name": "Is Agreement",
+        "sunday": [],
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": []
+    },
+    "E302studio": {
+        "name": "E302studio",
         "sunday": [
             {
                 "timeStart": {
@@ -1565,7 +1579,8 @@
         ],
         "thursday": []
     },
-    "E301Studio": {
+    "E301 Studio": {
+        "name": "E301 Studio",
         "sunday": [
             {
                 "timeStart": {
@@ -1643,6 +1658,7 @@
         "thursday": []
     },
     "Notdefinedfromfaculty": {
+        "name": "Notdefinedfromfaculty",
         "sunday": [
             {
                 "timeStart": {
@@ -1696,7 +1712,8 @@
         ],
         "thursday": []
     },
-    "E304Studio": {
+    "E304studio": {
+        "name": "E304studio",
         "sunday": [
             {
                 "timeStart": {
@@ -1795,7 +1812,8 @@
         ],
         "thursday": []
     },
-    "D003-COED-NB": {
+    "D003-coed-nb": {
+        "name": "D003-coed-nb",
         "sunday": [
             {
                 "timeStart": {
@@ -1940,7 +1958,7 @@
                     "hour": 14,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -2109,7 +2127,7 @@
                     "hour": 14,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -2170,7 +2188,8 @@
             }
         ]
     },
-    "E306Studio": {
+    "E306studio": {
+        "name": "E306studio",
         "sunday": [
             {
                 "timeStart": {
@@ -2216,7 +2235,7 @@
                     "hour": 12,
                     "minute": 50
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -2286,7 +2305,7 @@
                     "hour": 12,
                     "minute": 50
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -2313,7 +2332,8 @@
         ],
         "thursday": []
     },
-    "E305Studio": {
+    "E305studio": {
+        "name": "E305studio",
         "sunday": [
             {
                 "timeStart": {
@@ -2456,7 +2476,16 @@
         ],
         "thursday": []
     },
-    "H217IELAB": {
+    "Room": {
+        "name": "Room",
+        "sunday": [],
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": []
+    },
+    "H217ielab": {
+        "name": "H217ielab",
         "sunday": [
             {
                 "timeStart": {
@@ -2655,7 +2684,8 @@
             }
         ]
     },
-    "H219ARCLAB": {
+    "H219arclab": {
+        "name": "H219arclab",
         "sunday": [
             {
                 "timeStart": {
@@ -2736,7 +2766,7 @@
                     "hour": 13,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Mobile Application Development"
             }
         ],
         "wednesday": [
@@ -2811,6 +2841,7 @@
         ]
     },
     "E208": {
+        "name": "E208",
         "sunday": [
             {
                 "timeStart": {
@@ -2922,7 +2953,7 @@
                     "hour": 14,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             }
         ],
         "tuesday": [
@@ -3098,6 +3129,7 @@
         ]
     },
     "F207": {
+        "name": "F207",
         "sunday": [
             {
                 "timeStart": {
@@ -3187,7 +3219,7 @@
                     "hour": 12,
                     "minute": 50
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -3301,7 +3333,7 @@
                     "hour": 12,
                     "minute": 50
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -3385,6 +3417,7 @@
         ]
     },
     "E110": {
+        "name": "E110",
         "sunday": [
             {
                 "timeStart": {
@@ -3483,7 +3516,7 @@
                     "hour": 15,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "General Chemistry"
             }
         ],
         "monday": [
@@ -3619,7 +3652,7 @@
                     "hour": 13,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "General Chemistry"
             }
         ],
         "wednesday": [
@@ -3804,6 +3837,7 @@
         ]
     },
     "G222": {
+        "name": "G222",
         "sunday": [
             {
                 "timeStart": {
@@ -3858,7 +3892,7 @@
                     "hour": 14,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -3915,7 +3949,7 @@
                     "hour": 12,
                     "minute": 50
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -3994,7 +4028,7 @@
                     "hour": 14,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Engineering Mechamics"
             },
             {
                 "courseName": "Free",
@@ -4029,7 +4063,7 @@
                     "hour": 9,
                     "minute": 50
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -4051,7 +4085,7 @@
                     "hour": 11,
                     "minute": 50
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -4179,6 +4213,7 @@
         ]
     },
     "E204": {
+        "name": "E204",
         "sunday": [
             {
                 "timeStart": {
@@ -4465,7 +4500,8 @@
             }
         ]
     },
-    "HumanFactorsLab": {
+    "Human Factors Lab": {
+        "name": "Human Factors Lab",
         "sunday": [
             {
                 "timeStart": {
@@ -4564,7 +4600,8 @@
         ],
         "thursday": []
     },
-    "QualityControlLab": {
+    "Quality Control Lab": {
+        "name": "Quality Control Lab",
         "sunday": [
             {
                 "timeStart": {
@@ -4608,6 +4645,7 @@
         ]
     },
     "G220": {
+        "name": "G220",
         "sunday": [
             {
                 "timeStart": {
@@ -4763,7 +4801,7 @@
                     "hour": 14,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Programming Fundamentals I"
             }
         ],
         "tuesday": [
@@ -4776,7 +4814,7 @@
                     "hour": 11,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Engineering Economy And Costing"
             },
             {
                 "courseName": "Free",
@@ -4855,7 +4893,7 @@
                     "hour": 11,
                     "minute": 50
                 },
-                "courseName": "Unknown"
+                "courseName": "Operation Research -2"
             },
             {
                 "courseName": "Free",
@@ -4961,6 +4999,7 @@
         ]
     },
     "G218": {
+        "name": "G218",
         "sunday": [
             {
                 "timeStart": {
@@ -5063,7 +5102,7 @@
                     "hour": 11,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Project Management"
             },
             {
                 "courseName": "Free",
@@ -5177,7 +5216,7 @@
                     "hour": 10,
                     "minute": 50
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -5203,7 +5242,8 @@
             }
         ]
     },
-    "CastingandWeldingLab": {
+    "Castingand Welding Lab": {
+        "name": "Castingand Welding Lab",
         "sunday": [],
         "monday": [],
         "tuesday": [
@@ -5223,6 +5263,7 @@
         "thursday": []
     },
     "E210": {
+        "name": "E210",
         "sunday": [
             {
                 "timeStart": {
@@ -5382,7 +5423,7 @@
                     "hour": 11,
                     "minute": 50
                 },
-                "courseName": "Unknown"
+                "courseName": "Production System Operations"
             },
             {
                 "courseName": "Free",
@@ -5488,6 +5529,7 @@
         ]
     },
     "G116": {
+        "name": "G116",
         "sunday": [
             {
                 "timeStart": {
@@ -5700,7 +5742,7 @@
                     "hour": 12,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Digital Logic And Design"
             },
             {
                 "courseName": "Free",
@@ -5744,7 +5786,7 @@
                     "hour": 15,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Programming Fundamentals I"
             }
         ],
         "wednesday": [
@@ -5814,7 +5856,7 @@
                     "hour": 10,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Computer Networks"
             },
             {
                 "courseName": "Free",
@@ -5902,11 +5944,12 @@
                     "hour": 15,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Network Security"
             }
         ]
     },
-    "B007COEDLAB": {
+    "B007coedlab": {
+        "name": "B007coedlab",
         "sunday": [
             {
                 "timeStart": {
@@ -6022,7 +6065,7 @@
                     "hour": 9,
                     "minute": 50
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -6105,7 +6148,8 @@
             }
         ]
     },
-    "C003COEDLAB": {
+    "C003coedlab": {
+        "name": "C003coedlab",
         "sunday": [
             {
                 "timeStart": {
@@ -6138,7 +6182,7 @@
                     "hour": 12,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Fundamental Of Programming I"
             }
         ],
         "monday": [
@@ -6173,7 +6217,7 @@
                     "hour": 14,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Programming Fundamentals I"
             },
             {
                 "courseName": "Free",
@@ -6278,7 +6322,7 @@
                     "hour": 10,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Fundamental Of Programming I"
             },
             {
                 "courseName": "Free",
@@ -6326,7 +6370,8 @@
             }
         ]
     },
-    "D209-LAB-NB": {
+    "D209-lab-nb": {
+        "name": "D209-lab-nb",
         "sunday": [],
         "monday": [
             {
@@ -6414,6 +6459,7 @@
         "thursday": []
     },
     "C008": {
+        "name": "C008",
         "sunday": [
             {
                 "timeStart": {
@@ -6516,7 +6562,7 @@
                     "hour": 11,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Programming Fundamentals Ii"
             },
             {
                 "courseName": "Free",
@@ -6613,6 +6659,7 @@
         ]
     },
     "G122": {
+        "name": "G122",
         "sunday": [
             {
                 "timeStart": {
@@ -6733,7 +6780,7 @@
                     "hour": 16,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Physics I"
             }
         ],
         "monday": [
@@ -7014,7 +7061,7 @@
                     "hour": 13,
                     "minute": 50
                 },
-                "courseName": "Unknown"
+                "courseName": "Family Law"
             },
             {
                 "courseName": "Free",
@@ -7164,6 +7211,7 @@
         ]
     },
     "F109": {
+        "name": "F109",
         "sunday": [
             {
                 "timeStart": {
@@ -7376,7 +7424,7 @@
                     "hour": 13,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Physics I"
             },
             {
                 "courseName": "Free",
@@ -7420,7 +7468,7 @@
                     "hour": 16,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Physics I"
             }
         ],
         "wednesday": [
@@ -7490,7 +7538,7 @@
                     "hour": 10,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Physics Ii"
             },
             {
                 "courseName": "Free",
@@ -7556,11 +7604,12 @@
                     "hour": 14,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Physics Ii"
             }
         ]
     },
     "E206": {
+        "name": "E206",
         "sunday": [
             {
                 "timeStart": {
@@ -7848,6 +7897,7 @@
         ]
     },
     "E102": {
+        "name": "E102",
         "sunday": [
             {
                 "timeStart": {
@@ -8333,6 +8383,7 @@
         ]
     },
     "F003": {
+        "name": "F003",
         "sunday": [
             {
                 "timeStart": {
@@ -8795,7 +8846,8 @@
             }
         ]
     },
-    "H119Network&Securit": {
+    "H119network&securit": {
+        "name": "H119network&securit",
         "sunday": [
             {
                 "timeStart": {
@@ -8841,7 +8893,7 @@
                     "hour": 9,
                     "minute": 50
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             }
         ],
         "tuesday": [
@@ -8860,7 +8912,8 @@
         "wednesday": [],
         "thursday": []
     },
-    "D004-COED-NB": {
+    "D004-coed-nb": {
+        "name": "D004-coed-nb",
         "sunday": [
             {
                 "timeStart": {
@@ -8906,7 +8959,7 @@
                     "hour": 11,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -8976,7 +9029,7 @@
                     "hour": 11,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -9037,7 +9090,8 @@
             }
         ]
     },
-    "D201-LAB-NB": {
+    "D201-lab-nb": {
+        "name": "D201-lab-nb",
         "sunday": [
             {
                 "timeStart": {
@@ -9391,6 +9445,7 @@
         ]
     },
     "F107": {
+        "name": "F107",
         "sunday": [
             {
                 "timeStart": {
@@ -9559,7 +9614,7 @@
                     "hour": 16,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "General Chemistry"
             }
         ],
         "wednesday": [
@@ -9656,6 +9711,7 @@
         ]
     },
     "B002": {
+        "name": "B002",
         "sunday": [
             {
                 "timeStart": {
@@ -9692,7 +9748,7 @@
                     "hour": 16,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             }
         ],
         "wednesday": [],
@@ -9710,7 +9766,8 @@
             }
         ]
     },
-    "B003ChemistryLa": {
+    "b003chemistry La": {
+        "name": "b003chemistry La",
         "sunday": [
             {
                 "timeStart": {
@@ -9747,7 +9804,7 @@
                     "hour": 16,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             }
         ],
         "wednesday": [],
@@ -9766,6 +9823,7 @@
         ]
     },
     "E108": {
+        "name": "E108",
         "sunday": [
             {
                 "timeStart": {
@@ -9776,7 +9834,7 @@
                     "hour": 10,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -9820,7 +9878,7 @@
                     "hour": 12,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -9956,7 +10014,7 @@
                     "hour": 10,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -10000,7 +10058,7 @@
                     "hour": 12,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -10136,7 +10194,7 @@
                     "hour": 10,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -10180,7 +10238,7 @@
                     "hour": 12,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -10251,6 +10309,7 @@
         ]
     },
     "F103": {
+        "name": "F103",
         "sunday": [
             {
                 "timeStart": {
@@ -10736,6 +10795,7 @@
         ]
     },
     "F105": {
+        "name": "F105",
         "sunday": [
             {
                 "timeStart": {
@@ -11199,6 +11259,7 @@
         ]
     },
     "E106": {
+        "name": "E106",
         "sunday": [
             {
                 "timeStart": {
@@ -11275,7 +11336,7 @@
                     "hour": 14,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -11433,7 +11494,7 @@
                     "hour": 14,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -11591,7 +11652,7 @@
                     "hour": 14,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -11617,7 +11678,8 @@
             }
         ]
     },
-    "H117PHY&DLDLAB": {
+    "H117phy&dldlab": {
+        "name": "H117phy&dldlab",
         "sunday": [
             {
                 "timeStart": {
@@ -11750,7 +11812,8 @@
             }
         ]
     },
-    "D202-LAB-NB": {
+    "D202-lab-nb": {
+        "name": "D202-lab-nb",
         "sunday": [
             {
                 "timeStart": {
@@ -11875,7 +11938,7 @@
                     "hour": 13,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Probability And Statistics"
             }
         ],
         "wednesday": [
@@ -11910,7 +11973,7 @@
                     "hour": 14,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Probability And Statistics"
             },
             {
                 "courseName": "Free",
@@ -11967,7 +12030,7 @@
                     "hour": 13,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -11989,7 +12052,7 @@
                     "hour": 14,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Business Statistics And Analysis"
             },
             {
                 "courseName": "Free",
@@ -12011,11 +12074,12 @@
                     "hour": 15,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Business Statistics And Analysis"
             }
         ]
     },
     "E104": {
+        "name": "E104",
         "sunday": [
             {
                 "timeStart": {
@@ -12092,7 +12156,7 @@
                     "hour": 13,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -12250,7 +12314,7 @@
                     "hour": 13,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -12329,7 +12393,7 @@
                     "hour": 12,
                     "minute": 50
                 },
-                "courseName": "Unknown"
+                "courseName": "Probability And Statistics"
             },
             {
                 "courseName": "Free",
@@ -12351,7 +12415,7 @@
                     "hour": 14,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Business Statistics And Analysis"
             }
         ],
         "thursday": [
@@ -12413,6 +12477,7 @@
         ]
     },
     "F203": {
+        "name": "F203",
         "sunday": [
             {
                 "timeStart": {
@@ -12876,6 +12941,7 @@
         ]
     },
     "F205": {
+        "name": "F205",
         "sunday": [
             {
                 "timeStart": {
@@ -13317,6 +13383,7 @@
         ]
     },
     "C007": {
+        "name": "C007",
         "sunday": [
             {
                 "timeStart": {
@@ -13327,7 +13394,7 @@
                     "hour": 11,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -13441,7 +13508,7 @@
                     "hour": 11,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -13577,7 +13644,7 @@
                     "hour": 11,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -13626,6 +13693,7 @@
         ]
     },
     "C108": {
+        "name": "C108",
         "sunday": [],
         "monday": [
             {
@@ -13701,6 +13769,7 @@
         "thursday": []
     },
     "E202": {
+        "name": "E202",
         "sunday": [
             {
                 "timeStart": {
@@ -14054,6 +14123,7 @@
         ]
     },
     "F007": {
+        "name": "F007",
         "sunday": [
             {
                 "timeStart": {
@@ -14428,7 +14498,8 @@
             }
         ]
     },
-    "B012LAB": {
+    "B012lab": {
+        "name": "B012lab",
         "sunday": [],
         "monday": [
             {
@@ -14467,11 +14538,12 @@
                     "hour": 12,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             }
         ]
     },
     "C006": {
+        "name": "C006",
         "sunday": [
             {
                 "timeStart": {
@@ -14803,6 +14875,7 @@
         ]
     },
     "C212": {
+        "name": "C212",
         "sunday": [],
         "monday": [
             {
@@ -14833,7 +14906,8 @@
         ],
         "thursday": []
     },
-    "C001.MainBuilding": {
+    "C001.main Building": {
+        "name": "C001.main Building",
         "sunday": [
             {
                 "timeStart": {
@@ -14989,6 +15063,7 @@
         ]
     },
     "C203": {
+        "name": "C203",
         "sunday": [],
         "monday": [
             {
@@ -15020,6 +15095,7 @@
         "thursday": []
     },
     "C208": {
+        "name": "C208",
         "sunday": [],
         "monday": [
             {
@@ -15051,6 +15127,7 @@
         "thursday": []
     },
     "C204": {
+        "name": "C204",
         "sunday": [],
         "monday": [
             {
@@ -15082,6 +15159,7 @@
         "thursday": []
     },
     "C111": {
+        "name": "C111",
         "sunday": [
             {
                 "timeStart": {
@@ -15149,6 +15227,7 @@
         ]
     },
     "C207": {
+        "name": "C207",
         "sunday": [],
         "monday": [
             {
@@ -15179,7 +15258,8 @@
         ],
         "thursday": []
     },
-    "B001.MainBuilding": {
+    "B001.main Building": {
+        "name": "B001.main Building",
         "sunday": [
             {
                 "timeStart": {
@@ -15247,6 +15327,7 @@
         ]
     },
     "C107": {
+        "name": "C107",
         "sunday": [],
         "monday": [
             {
@@ -15409,7 +15490,8 @@
         ],
         "thursday": []
     },
-    "D008-COED-NB": {
+    "D008-coed-nb": {
+        "name": "D008-coed-nb",
         "sunday": [
             {
                 "timeStart": {
@@ -15740,7 +15822,8 @@
             }
         ]
     },
-    "D006-COED-NB": {
+    "D006-coed-nb": {
+        "name": "D006-coed-nb",
         "sunday": [
             {
                 "timeStart": {
@@ -16445,7 +16528,8 @@
             }
         ]
     },
-    "D005-COED-NB": {
+    "D005-coed-nb": {
+        "name": "D005-coed-nb",
         "sunday": [
             {
                 "timeStart": {
@@ -17128,7 +17212,8 @@
             }
         ]
     },
-    "D002-COED-NB": {
+    "D002-coed-nb": {
+        "name": "D002-coed-nb",
         "sunday": [
             {
                 "timeStart": {
@@ -17778,7 +17863,8 @@
             }
         ]
     },
-    "D007-COED-NB": {
+    "D007-coed-nb": {
+        "name": "D007-coed-nb",
         "sunday": [
             {
                 "timeStart": {
@@ -18351,7 +18437,8 @@
             }
         ]
     },
-    "D001-COED-NB": {
+    "D001-coed-nb": {
+        "name": "D001-coed-nb",
         "sunday": [
             {
                 "timeStart": {
@@ -18428,7 +18515,7 @@
                     "hour": 12,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -18685,7 +18772,7 @@
                     "hour": 12,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -18942,7 +19029,7 @@
                     "hour": 12,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             },
             {
                 "courseName": "Free",
@@ -19023,7 +19110,8 @@
             }
         ]
     },
-    "ONLINE": {
+    "Online": {
+        "name": "Online",
         "sunday": [
             {
                 "timeStart": {
@@ -19232,7 +19320,7 @@
                     "hour": 16,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             }
         ],
         "monday": [
@@ -19621,7 +19709,7 @@
                     "hour": 16,
                     "minute": 20
                 },
-                "courseName": "Unknown"
+                "courseName": "Course Name"
             }
         ],
         "wednesday": [
