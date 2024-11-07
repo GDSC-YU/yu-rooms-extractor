@@ -110,28 +110,6 @@
                     "minute": 20
                 },
                 "timeEnd": {
-                    "hour": 11,
-                    "minute": 0
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 0
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 50
-                },
-                "courseName": "Operation Management"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 50
-                },
-                "timeEnd": {
                     "hour": 13,
                     "minute": 0
                 }
@@ -149,28 +127,6 @@
             }
         ],
         "tuesday": [
-            {
-                "timeStart": {
-                    "hour": 8,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 9,
-                    "minute": 20
-                },
-                "courseName": "Safety Engineering"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 9,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 9,
-                    "minute": 30
-                }
-            },
             {
                 "timeStart": {
                     "hour": 9,
@@ -856,28 +812,6 @@
         "sunday": [
             {
                 "timeStart": {
-                    "hour": 10,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 20
-                },
-                "courseName": "Programming Fundamentals I"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
                     "hour": 13,
                     "minute": 30
                 },
@@ -978,28 +912,6 @@
                     "minute": 20
                 },
                 "courseName": "System Analysis And Design"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 15,
-                    "minute": 20
-                },
-                "courseName": "Programming Fundamentals I"
             }
         ],
         "wednesday": [
@@ -1086,50 +998,6 @@
                     "minute": 20
                 },
                 "courseName": "Computer Ethics"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 13,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 13,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 15,
-                    "minute": 20
-                },
-                "courseName": "Software Verification And Validation"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 15,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 15,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 15,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 16,
-                    "minute": 20
-                },
-                "courseName": "Software Quality Assurance"
             }
         ],
         "monday": [
@@ -1435,8 +1303,8 @@
         "wednesday": [],
         "thursday": []
     },
-    "E302studio": {
-        "name": "E302studio",
+    "E302 Studio": {
+        "name": "E302 Studio",
         "sunday": [
             {
                 "timeStart": {
@@ -1712,8 +1580,8 @@
         ],
         "thursday": []
     },
-    "E304studio": {
-        "name": "E304studio",
+    "E304 Studio": {
+        "name": "E304 Studio",
         "sunday": [
             {
                 "timeStart": {
@@ -1945,28 +1813,6 @@
                     "minute": 20
                 },
                 "timeEnd": {
-                    "hour": 13,
-                    "minute": 0
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 13,
-                    "minute": 0
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "timeEnd": {
                     "hour": 14,
                     "minute": 30
                 }
@@ -2114,28 +1960,6 @@
                     "minute": 20
                 },
                 "timeEnd": {
-                    "hour": 13,
-                    "minute": 0
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 13,
-                    "minute": 0
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "timeEnd": {
                     "hour": 14,
                     "minute": 30
                 }
@@ -2188,8 +2012,8 @@
             }
         ]
     },
-    "E306studio": {
-        "name": "E306studio",
+    "E306 Studio": {
+        "name": "E306 Studio",
         "sunday": [
             {
                 "timeStart": {
@@ -2226,28 +2050,6 @@
             }
         ],
         "monday": [
-            {
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 50
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 50
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 30
-                }
-            },
             {
                 "timeStart": {
                     "hour": 13,
@@ -2298,28 +2100,6 @@
         "wednesday": [
             {
                 "timeStart": {
-                    "hour": 11,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 50
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 50
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
                     "hour": 13,
                     "minute": 30
                 },
@@ -2332,8 +2112,8 @@
         ],
         "thursday": []
     },
-    "E305studio": {
-        "name": "E305studio",
+    "E305 Studio": {
+        "name": "E305 Studio",
         "sunday": [
             {
                 "timeStart": {
@@ -2484,8 +2264,8 @@
         "wednesday": [],
         "thursday": []
     },
-    "H217ielab": {
-        "name": "H217ielab",
+    "H217 Ielab": {
+        "name": "H217 Ielab",
         "sunday": [
             {
                 "timeStart": {
@@ -2684,8 +2464,8 @@
             }
         ]
     },
-    "H219arclab": {
-        "name": "H219arclab",
+    "H219 Arclab": {
+        "name": "H219 Arclab",
         "sunday": [
             {
                 "timeStart": {
@@ -2745,28 +2525,6 @@
                     "minute": 20
                 },
                 "courseName": "Computer-aided Design Ii"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 20
-                },
-                "courseName": "Mobile Application Development"
             }
         ],
         "wednesday": [
@@ -2932,28 +2690,6 @@
                     "minute": 20
                 },
                 "courseName": "International Business"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 0
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 13,
-                    "minute": 0
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
             }
         ],
         "tuesday": [
@@ -3206,28 +2942,6 @@
                     "minute": 20
                 },
                 "timeEnd": {
-                    "hour": 11,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 50
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 50
-                },
-                "timeEnd": {
                     "hour": 13,
                     "minute": 0
                 }
@@ -3318,28 +3032,6 @@
                 "timeStart": {
                     "hour": 11,
                     "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 50
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 50
                 },
                 "timeEnd": {
                     "hour": 13,
@@ -3495,28 +3187,6 @@
                     "minute": 20
                 },
                 "courseName": "Engineering Mechamics"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 15,
-                    "minute": 20
-                },
-                "courseName": "General Chemistry"
             }
         ],
         "monday": [
@@ -3631,28 +3301,6 @@
                     "minute": 20
                 },
                 "courseName": "Project Management"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 20
-                },
-                "courseName": "General Chemistry"
             }
         ],
         "wednesday": [
@@ -3833,382 +3481,6 @@
                     "minute": 20
                 },
                 "courseName": "General Chemistry"
-            }
-        ]
-    },
-    "G222": {
-        "name": "G222",
-        "sunday": [
-            {
-                "timeStart": {
-                    "hour": 8,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 10,
-                    "minute": 20
-                },
-                "courseName": "Engineering Drawing And Cad"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 10,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 10,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 10,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 20
-                },
-                "courseName": "Social And Ethical Aspects In Engineering"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 15,
-                    "minute": 20
-                },
-                "courseName": "Fundamentals Of Materials Engineering"
-            }
-        ],
-        "monday": [
-            {
-                "timeStart": {
-                    "hour": 8,
-                    "minute": 0
-                },
-                "timeEnd": {
-                    "hour": 9,
-                    "minute": 50
-                },
-                "courseName": "Introduction To Engineering Design"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 9,
-                    "minute": 50
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 0
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 0
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 50
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 50
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 16,
-                    "minute": 20
-                },
-                "courseName": "Systems Simulation"
-            }
-        ],
-        "tuesday": [
-            {
-                "timeStart": {
-                    "hour": 8,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 10,
-                    "minute": 20
-                },
-                "courseName": "Design Of Experiments"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 10,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 10,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 10,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 20
-                },
-                "courseName": "Social And Ethical Aspects In Engineering"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 0
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 13,
-                    "minute": 0
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "courseName": "Engineering Mechamics"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 16,
-                    "minute": 20
-                },
-                "courseName": "Introduction To Engineering Design"
-            }
-        ],
-        "wednesday": [
-            {
-                "timeStart": {
-                    "hour": 8,
-                    "minute": 0
-                },
-                "timeEnd": {
-                    "hour": 9,
-                    "minute": 50
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 9,
-                    "minute": 50
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 0
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 0
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 50
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 50
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 0
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 0
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 50
-                },
-                "courseName": "Operation Research -1"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 50
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 13,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "courseName": "Industrial Control Systems And Automation"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 16,
-                    "minute": 20
-                },
-                "courseName": "Industrial Control Systems And Automation"
-            }
-        ],
-        "thursday": [
-            {
-                "timeStart": {
-                    "hour": 8,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 9,
-                    "minute": 20
-                },
-                "courseName": "Design Of Experiments"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 9,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 0
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 0
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 50
-                },
-                "courseName": "Graduation Design Project -1"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 50
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 0
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 13,
-                    "minute": 0
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 50
-                },
-                "courseName": "Graduation Design Project -2"
             }
         ]
     },
@@ -4500,6 +3772,272 @@
             }
         ]
     },
+    "G222": {
+        "name": "G222",
+        "sunday": [
+            {
+                "timeStart": {
+                    "hour": 8,
+                    "minute": 30
+                },
+                "timeEnd": {
+                    "hour": 10,
+                    "minute": 20
+                },
+                "courseName": "Engineering Drawing And Cad"
+            },
+            {
+                "courseName": "Free",
+                "timeStart": {
+                    "hour": 10,
+                    "minute": 20
+                },
+                "timeEnd": {
+                    "hour": 10,
+                    "minute": 30
+                }
+            },
+            {
+                "timeStart": {
+                    "hour": 10,
+                    "minute": 30
+                },
+                "timeEnd": {
+                    "hour": 12,
+                    "minute": 20
+                },
+                "courseName": "Social And Ethical Aspects In Engineering"
+            },
+            {
+                "courseName": "Free",
+                "timeStart": {
+                    "hour": 12,
+                    "minute": 20
+                },
+                "timeEnd": {
+                    "hour": 14,
+                    "minute": 30
+                }
+            },
+            {
+                "timeStart": {
+                    "hour": 14,
+                    "minute": 30
+                },
+                "timeEnd": {
+                    "hour": 15,
+                    "minute": 20
+                },
+                "courseName": "Fundamentals Of Materials Engineering"
+            }
+        ],
+        "monday": [
+            {
+                "timeStart": {
+                    "hour": 8,
+                    "minute": 0
+                },
+                "timeEnd": {
+                    "hour": 9,
+                    "minute": 50
+                },
+                "courseName": "Introduction To Engineering Design"
+            },
+            {
+                "courseName": "Free",
+                "timeStart": {
+                    "hour": 9,
+                    "minute": 50
+                },
+                "timeEnd": {
+                    "hour": 14,
+                    "minute": 30
+                }
+            },
+            {
+                "timeStart": {
+                    "hour": 14,
+                    "minute": 30
+                },
+                "timeEnd": {
+                    "hour": 16,
+                    "minute": 20
+                },
+                "courseName": "Systems Simulation"
+            }
+        ],
+        "tuesday": [
+            {
+                "timeStart": {
+                    "hour": 8,
+                    "minute": 30
+                },
+                "timeEnd": {
+                    "hour": 10,
+                    "minute": 20
+                },
+                "courseName": "Design Of Experiments"
+            },
+            {
+                "courseName": "Free",
+                "timeStart": {
+                    "hour": 10,
+                    "minute": 20
+                },
+                "timeEnd": {
+                    "hour": 10,
+                    "minute": 30
+                }
+            },
+            {
+                "timeStart": {
+                    "hour": 10,
+                    "minute": 30
+                },
+                "timeEnd": {
+                    "hour": 11,
+                    "minute": 20
+                },
+                "courseName": "Social And Ethical Aspects In Engineering"
+            },
+            {
+                "courseName": "Free",
+                "timeStart": {
+                    "hour": 11,
+                    "minute": 20
+                },
+                "timeEnd": {
+                    "hour": 14,
+                    "minute": 30
+                }
+            },
+            {
+                "timeStart": {
+                    "hour": 14,
+                    "minute": 30
+                },
+                "timeEnd": {
+                    "hour": 16,
+                    "minute": 20
+                },
+                "courseName": "Introduction To Engineering Design"
+            }
+        ],
+        "wednesday": [
+            {
+                "timeStart": {
+                    "hour": 12,
+                    "minute": 0
+                },
+                "timeEnd": {
+                    "hour": 12,
+                    "minute": 50
+                },
+                "courseName": "Operation Research -1"
+            },
+            {
+                "courseName": "Free",
+                "timeStart": {
+                    "hour": 12,
+                    "minute": 50
+                },
+                "timeEnd": {
+                    "hour": 13,
+                    "minute": 30
+                }
+            },
+            {
+                "timeStart": {
+                    "hour": 13,
+                    "minute": 30
+                },
+                "timeEnd": {
+                    "hour": 14,
+                    "minute": 20
+                },
+                "courseName": "Industrial Control Systems And Automation"
+            },
+            {
+                "courseName": "Free",
+                "timeStart": {
+                    "hour": 14,
+                    "minute": 20
+                },
+                "timeEnd": {
+                    "hour": 14,
+                    "minute": 30
+                }
+            },
+            {
+                "timeStart": {
+                    "hour": 14,
+                    "minute": 30
+                },
+                "timeEnd": {
+                    "hour": 16,
+                    "minute": 20
+                },
+                "courseName": "Industrial Control Systems And Automation"
+            }
+        ],
+        "thursday": [
+            {
+                "timeStart": {
+                    "hour": 8,
+                    "minute": 30
+                },
+                "timeEnd": {
+                    "hour": 9,
+                    "minute": 20
+                },
+                "courseName": "Design Of Experiments"
+            },
+            {
+                "courseName": "Free",
+                "timeStart": {
+                    "hour": 9,
+                    "minute": 20
+                },
+                "timeEnd": {
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "timeStart": {
+                    "hour": 11,
+                    "minute": 0
+                },
+                "timeEnd": {
+                    "hour": 12,
+                    "minute": 50
+                },
+                "courseName": "Graduation Design Project -1"
+            },
+            {
+                "courseName": "Free",
+                "timeStart": {
+                    "hour": 12,
+                    "minute": 50
+                },
+                "timeEnd": {
+                    "hour": 13,
+                    "minute": 0
+                }
+            },
+            {
+                "timeStart": {
+                    "hour": 13,
+                    "minute": 0
+                },
+                "timeEnd": {
+                    "hour": 14,
+                    "minute": 50
+                },
+                "courseName": "Graduation Design Project -2"
+            }
+        ]
+    },
     "Human Factors Lab": {
         "name": "Human Factors Lab",
         "sunday": [
@@ -4780,53 +4318,9 @@
                     "minute": 50
                 },
                 "courseName": "Operation Research -2"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 50
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 0
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 13,
-                    "minute": 0
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "courseName": "Programming Fundamentals I"
             }
         ],
         "tuesday": [
-            {
-                "timeStart": {
-                    "hour": 10,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 20
-                },
-                "courseName": "Engineering Economy And Costing"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 30
-                }
-            },
             {
                 "timeStart": {
                     "hour": 11,
@@ -4877,28 +4371,6 @@
                 "courseName": "Free",
                 "timeStart": {
                     "hour": 9,
-                    "minute": 50
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 0
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 0
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 50
-                },
-                "courseName": "Operation Research -2"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 11,
                     "minute": 50
                 },
                 "timeEnd": {
@@ -5089,28 +4561,6 @@
                     "minute": 20
                 },
                 "timeEnd": {
-                    "hour": 10,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 10,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 20
-                },
-                "courseName": "Project Management"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 20
-                },
-                "timeEnd": {
                     "hour": 11,
                     "minute": 30
                 }
@@ -5201,28 +4651,6 @@
                 "timeStart": {
                     "hour": 9,
                     "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 9,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 9,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 10,
-                    "minute": 50
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 10,
-                    "minute": 50
                 },
                 "timeEnd": {
                     "hour": 13,
@@ -5414,28 +4842,6 @@
             }
         ],
         "wednesday": [
-            {
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 0
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 50
-                },
-                "courseName": "Production System Operations"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 50
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 0
-                }
-            },
             {
                 "timeStart": {
                     "hour": 12,
@@ -5729,28 +5135,6 @@
                     "minute": 20
                 },
                 "timeEnd": {
-                    "hour": 11,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 20
-                },
-                "courseName": "Digital Logic And Design"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 20
-                },
-                "timeEnd": {
                     "hour": 13,
                     "minute": 30
                 }
@@ -5765,28 +5149,6 @@
                     "minute": 20
                 },
                 "courseName": "Operating Systems"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 15,
-                    "minute": 20
-                },
-                "courseName": "Programming Fundamentals I"
             }
         ],
         "wednesday": [
@@ -5849,28 +5211,6 @@
         "thursday": [
             {
                 "timeStart": {
-                    "hour": 8,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 10,
-                    "minute": 20
-                },
-                "courseName": "Computer Networks"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 10,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 10,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
                     "hour": 10,
                     "minute": 30
                 },
@@ -5923,33 +5263,11 @@
                     "minute": 20
                 },
                 "courseName": "Operating Systems"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 15,
-                    "minute": 20
-                },
-                "courseName": "Network Security"
             }
         ]
     },
-    "B007coedlab": {
-        "name": "B007coedlab",
+    "B007 Coedlab": {
+        "name": "B007 Coedlab",
         "sunday": [
             {
                 "timeStart": {
@@ -6058,28 +5376,6 @@
         "wednesday": [
             {
                 "timeStart": {
-                    "hour": 8,
-                    "minute": 0
-                },
-                "timeEnd": {
-                    "hour": 9,
-                    "minute": 50
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 9,
-                    "minute": 50
-                },
-                "timeEnd": {
-                    "hour": 10,
-                    "minute": 0
-                }
-            },
-            {
-                "timeStart": {
                     "hour": 10,
                     "minute": 0
                 },
@@ -6148,8 +5444,8 @@
             }
         ]
     },
-    "C003coedlab": {
-        "name": "C003coedlab",
+    "C003 Coedlab": {
+        "name": "C003 Coedlab",
         "sunday": [
             {
                 "timeStart": {
@@ -6158,28 +5454,6 @@
                 },
                 "timeEnd": {
                     "hour": 10,
-                    "minute": 20
-                },
-                "courseName": "Fundamental Of Programming I"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 10,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 10,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 10,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 12,
                     "minute": 20
                 },
                 "courseName": "Fundamental Of Programming I"
@@ -6202,28 +5476,6 @@
                 "timeStart": {
                     "hour": 11,
                     "minute": 50
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 0
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 13,
-                    "minute": 0
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "courseName": "Programming Fundamentals I"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 20
                 },
                 "timeEnd": {
                     "hour": 14,
@@ -6313,28 +5565,6 @@
             }
         ],
         "thursday": [
-            {
-                "timeStart": {
-                    "hour": 8,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 10,
-                    "minute": 20
-                },
-                "courseName": "Fundamental Of Programming I"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 10,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 10,
-                    "minute": 30
-                }
-            },
             {
                 "timeStart": {
                     "hour": 10,
@@ -6555,28 +5785,6 @@
         "tuesday": [
             {
                 "timeStart": {
-                    "hour": 10,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 20
-                },
-                "courseName": "Programming Fundamentals Ii"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
                     "hour": 13,
                     "minute": 30
                 },
@@ -6759,28 +5967,6 @@
                     "minute": 20
                 },
                 "courseName": "Calculus Ii"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 16,
-                    "minute": 20
-                },
-                "courseName": "Physics I"
             }
         ],
         "monday": [
@@ -7045,28 +6231,6 @@
                 "courseName": "Free",
                 "timeStart": {
                     "hour": 12,
-                    "minute": 50
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 0
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 13,
-                    "minute": 0
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 50
-                },
-                "courseName": "Family Law"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 13,
                     "minute": 50
                 },
                 "timeEnd": {
@@ -7411,28 +6575,6 @@
                     "minute": 20
                 },
                 "timeEnd": {
-                    "hour": 12,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 20
-                },
-                "courseName": "Physics I"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 13,
-                    "minute": 20
-                },
-                "timeEnd": {
                     "hour": 13,
                     "minute": 30
                 }
@@ -7447,28 +6589,6 @@
                     "minute": 20
                 },
                 "courseName": "Physics Ii"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 16,
-                    "minute": 20
-                },
-                "courseName": "Physics I"
             }
         ],
         "wednesday": [
@@ -7531,28 +6651,6 @@
         "thursday": [
             {
                 "timeStart": {
-                    "hour": 8,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 10,
-                    "minute": 20
-                },
-                "courseName": "Physics Ii"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 10,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 10,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
                     "hour": 10,
                     "minute": 30
                 },
@@ -7583,28 +6681,6 @@
                     "minute": 20
                 },
                 "courseName": "Cyber Security And Cryptography"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "courseName": "Physics Ii"
             }
         ]
     },
@@ -8846,8 +7922,8 @@
             }
         ]
     },
-    "H119network&securit": {
-        "name": "H119network&securit",
+    "H119 Network&securit": {
+        "name": "H119 Network&securit",
         "sunday": [
             {
                 "timeStart": {
@@ -8883,19 +7959,7 @@
                 "courseName": "Network Security"
             }
         ],
-        "monday": [
-            {
-                "timeStart": {
-                    "hour": 8,
-                    "minute": 0
-                },
-                "timeEnd": {
-                    "hour": 9,
-                    "minute": 50
-                },
-                "courseName": "Course Name"
-            }
-        ],
+        "monday": [],
         "tuesday": [
             {
                 "timeStart": {
@@ -8952,28 +8016,6 @@
         "monday": [
             {
                 "timeStart": {
-                    "hour": 10,
-                    "minute": 0
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 0
-                }
-            },
-            {
-                "timeStart": {
                     "hour": 13,
                     "minute": 0
                 },
@@ -9020,28 +8062,6 @@
             }
         ],
         "wednesday": [
-            {
-                "timeStart": {
-                    "hour": 10,
-                    "minute": 0
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 0
-                }
-            },
             {
                 "timeStart": {
                     "hour": 13,
@@ -9593,28 +8613,6 @@
                     "minute": 20
                 },
                 "courseName": "Mathematics For Business"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 16,
-                    "minute": 20
-                },
-                "courseName": "General Chemistry"
             }
         ],
         "wednesday": [
@@ -9738,19 +8736,7 @@
                 "courseName": "General Chemistry"
             }
         ],
-        "tuesday": [
-            {
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 16,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            }
-        ],
+        "tuesday": [],
         "wednesday": [],
         "thursday": [
             {
@@ -9766,8 +8752,8 @@
             }
         ]
     },
-    "b003chemistry La": {
-        "name": "b003chemistry La",
+    "b003 Chemistry La": {
+        "name": "b003 Chemistry La",
         "sunday": [
             {
                 "timeStart": {
@@ -9794,19 +8780,7 @@
                 "courseName": "General Chemistry"
             }
         ],
-        "tuesday": [
-            {
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 16,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            }
-        ],
+        "tuesday": [],
         "wednesday": [],
         "thursday": [
             {
@@ -9827,28 +8801,6 @@
         "sunday": [
             {
                 "timeStart": {
-                    "hour": 9,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 10,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 10,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 10,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
                     "hour": 10,
                     "minute": 30
                 },
@@ -9862,28 +8814,6 @@
                 "courseName": "Free",
                 "timeStart": {
                     "hour": 11,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 12,
                     "minute": 20
                 },
                 "timeEnd": {
@@ -10007,28 +8937,6 @@
         "tuesday": [
             {
                 "timeStart": {
-                    "hour": 9,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 10,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 10,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 10,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
                     "hour": 10,
                     "minute": 30
                 },
@@ -10042,28 +8950,6 @@
                 "courseName": "Free",
                 "timeStart": {
                     "hour": 11,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 12,
                     "minute": 20
                 },
                 "timeEnd": {
@@ -10187,28 +9073,6 @@
         "thursday": [
             {
                 "timeStart": {
-                    "hour": 9,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 10,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 10,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 10,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
                     "hour": 10,
                     "minute": 30
                 },
@@ -10222,28 +9086,6 @@
                 "courseName": "Free",
                 "timeStart": {
                     "hour": 11,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 12,
                     "minute": 20
                 },
                 "timeEnd": {
@@ -11323,28 +10165,6 @@
                     "minute": 20
                 },
                 "timeEnd": {
-                    "hour": 13,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 13,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "timeEnd": {
                     "hour": 14,
                     "minute": 30
                 }
@@ -11478,28 +10298,6 @@
                 "courseName": "Free",
                 "timeStart": {
                     "hour": 13,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 13,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 14,
                     "minute": 20
                 },
                 "timeEnd": {
@@ -11639,28 +10437,6 @@
                     "minute": 20
                 },
                 "timeEnd": {
-                    "hour": 13,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 13,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "timeEnd": {
                     "hour": 14,
                     "minute": 30
                 }
@@ -11678,8 +10454,8 @@
             }
         ]
     },
-    "H117phy&dldlab": {
-        "name": "H117phy&dldlab",
+    "H117 Phy&dldlab": {
+        "name": "H117 Phy&dldlab",
         "sunday": [
             {
                 "timeStart": {
@@ -11917,28 +10693,6 @@
                     "minute": 20
                 },
                 "courseName": "Database Management And Design"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 10,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 20
-                },
-                "courseName": "Probability And Statistics"
             }
         ],
         "wednesday": [
@@ -11958,28 +10712,6 @@
                 "timeStart": {
                     "hour": 9,
                     "minute": 50
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 0
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 13,
-                    "minute": 0
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "courseName": "Probability And Statistics"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 20
                 },
                 "timeEnd": {
                     "hour": 14,
@@ -12009,72 +10741,6 @@
                     "minute": 20
                 },
                 "courseName": "Database Management And Design"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 10,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 13,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 13,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "courseName": "Business Statistics And Analysis"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 14,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 15,
-                    "minute": 20
-                },
-                "courseName": "Business Statistics And Analysis"
             }
         ]
     },
@@ -12140,28 +10806,6 @@
                 "courseName": "Free",
                 "timeStart": {
                     "hour": 12,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 13,
                     "minute": 20
                 },
                 "timeEnd": {
@@ -12301,28 +10945,6 @@
                     "minute": 20
                 },
                 "timeEnd": {
-                    "hour": 12,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 13,
-                    "minute": 20
-                },
-                "timeEnd": {
                     "hour": 13,
                     "minute": 30
                 }
@@ -12372,50 +10994,6 @@
                     "minute": 20
                 },
                 "courseName": "Corporate Finance"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 50
-                },
-                "courseName": "Probability And Statistics"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 50
-                },
-                "timeEnd": {
-                    "hour": 13,
-                    "minute": 0
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 13,
-                    "minute": 0
-                },
-                "timeEnd": {
-                    "hour": 14,
-                    "minute": 20
-                },
-                "courseName": "Business Statistics And Analysis"
             }
         ],
         "thursday": [
@@ -13387,28 +11965,6 @@
         "sunday": [
             {
                 "timeStart": {
-                    "hour": 10,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
                     "hour": 11,
                     "minute": 30
                 },
@@ -13499,28 +12055,6 @@
             }
         ],
         "tuesday": [
-            {
-                "timeStart": {
-                    "hour": 10,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 30
-                }
-            },
             {
                 "timeStart": {
                     "hour": 11,
@@ -13635,28 +12169,6 @@
             }
         ],
         "thursday": [
-            {
-                "timeStart": {
-                    "hour": 10,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 30
-                }
-            },
             {
                 "timeStart": {
                     "hour": 11,
@@ -14498,8 +13010,8 @@
             }
         ]
     },
-    "B012lab": {
-        "name": "B012lab",
+    "B012 Lab": {
+        "name": "B012 Lab",
         "sunday": [],
         "monday": [
             {
@@ -14528,19 +13040,7 @@
                 "courseName": "Financial Modeling"
             }
         ],
-        "thursday": [
-            {
-                "timeStart": {
-                    "hour": 10,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            }
-        ]
+        "thursday": []
     },
     "C006": {
         "name": "C006",
@@ -18502,28 +17002,6 @@
                     "minute": 20
                 },
                 "timeEnd": {
-                    "hour": 11,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 20
-                },
-                "timeEnd": {
                     "hour": 12,
                     "minute": 30
                 }
@@ -18759,28 +17237,6 @@
                     "minute": 20
                 },
                 "timeEnd": {
-                    "hour": 11,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 12,
-                    "minute": 20
-                },
-                "timeEnd": {
                     "hour": 12,
                     "minute": 30
                 }
@@ -19013,28 +17469,6 @@
                 "courseName": "Free",
                 "timeStart": {
                     "hour": 11,
-                    "minute": 20
-                },
-                "timeEnd": {
-                    "hour": 11,
-                    "minute": 30
-                }
-            },
-            {
-                "timeStart": {
-                    "hour": 11,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 12,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
-            },
-            {
-                "courseName": "Free",
-                "timeStart": {
-                    "hour": 12,
                     "minute": 20
                 },
                 "timeEnd": {
@@ -19310,17 +17744,6 @@
                     "minute": 20
                 },
                 "courseName": "Foundation Of Islamic Culture"
-            },
-            {
-                "timeStart": {
-                    "hour": 15,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 16,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
             }
         ],
         "monday": [
@@ -19699,17 +18122,6 @@
                     "minute": 20
                 },
                 "courseName": "Foundation Of Islamic Culture"
-            },
-            {
-                "timeStart": {
-                    "hour": 15,
-                    "minute": 30
-                },
-                "timeEnd": {
-                    "hour": 16,
-                    "minute": 20
-                },
-                "courseName": "Course Name"
             }
         ],
         "wednesday": [
