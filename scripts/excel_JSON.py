@@ -7,10 +7,14 @@ import os
 def split_by_common_words(name):
     if isinstance(name, str):
         name = re.sub(r'(?<!\s)(In|The|Of|And|To|At|On)', r' \1', name)
-        name = re.sub(r'(?<!\s)([a-z])([A-Z])', r'\1 \2', name)   
-        name = re.sub(r'([A-Z]+)([A-Z][a-z])', r'\1 \2', name)    
-        name = re.sub(r'([0-9])([A-Za-z])', r'\1 \2', name)       
+        name = re.sub(r'(?<!\s)([a-z])([A-Z])', r'\1 \2', name)
+        name = re.sub(r'([A-Z]+)([A-Z][a-z])', r'\1 \2', name)
+        name = re.sub(r'([0-9])([A-Za-z])', r'\1 \2', name)
+        
         name = ' '.join(word.capitalize() for word in name.split())
+        
+        roman_numerals = {"Ii": "II", "Iii": "III", "Iv": "IV", "Vi": "VI", "Vii": "VII", "Viii": "VIII", "Ix": "IX", "X": "X"}
+        name = ' '.join(roman_numerals.get(word, word) for word in name.split())
     else:
         name = "Unknown"
     return name
@@ -61,11 +65,17 @@ for _, row in df.iterrows():
 
     time_start = row['From']
     time_end = row['To']
+
     if isinstance(time_start, pd.Timestamp):
         time_start = time_start.time()
+    elif isinstance(time_start, float):
+        continue
+
     if isinstance(time_end, pd.Timestamp):
         time_end = time_end.time()
-
+    elif isinstance(time_end, float):
+        continue
+    
     days = str(row['Days']).strip()
 
     course_name = format_course_name(row['Course Name'])
@@ -89,17 +99,18 @@ for _, row in df.iterrows():
         for day_num in day_numbers:
             if day_num in day_map:
                 day_name = day_map[day_num]
-                if not any(
-                    entry['timeStart'] == {"hour": time_start.hour, "minute": time_start.minute} and
-                    entry['timeEnd'] == {"hour": time_end.hour, "minute": time_end.minute} and
-                    entry['courseName'] == course_name
-                    for entry in rooms[individual_room][day_name]
-                ):
-                    rooms[individual_room][day_name].append({
-                        "timeStart": {"hour": time_start.hour, "minute": time_start.minute},
-                        "timeEnd": {"hour": time_end.hour, "minute": time_end.minute},
-                        "courseName": course_name
-                    })
+            
+            if not any(
+                entry['timeStart'] == {"hour": time_start.hour, "minute": time_start.minute} and
+                entry['timeEnd'] == {"hour": time_end.hour, "minute": time_end.minute}
+                for entry in rooms[individual_room][day_name]
+            ):
+                rooms[individual_room][day_name].append({
+                    "timeStart": {"hour": time_start.hour, "minute": time_start.minute},
+                    "timeEnd": {"hour": time_end.hour, "minute": time_end.minute},
+                    "courseName": course_name
+                })
+
 
 for room, schedule in rooms.items():
     for day, courses in schedule.items():
